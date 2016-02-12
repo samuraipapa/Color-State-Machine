@@ -47,7 +47,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
          myLabel.text = "100,000,000"
         turnEverythingToDay()
-    
+        
+//        var ColorOfButton7 =  view.backgroundColor
+//    
+//        print("\(ColorOfButton7)")
         
         // Do any additional setup after loading the view, typically from a nib.
     }
